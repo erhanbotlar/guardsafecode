@@ -1,0 +1,29 @@
+{
+
+    "Server": {
+        "Id": "826817727116738571"
+    },
+
+    "Roles": {
+        "Jail_Role": "859027837117136916",
+        "Booster_Role": "859027895245602867"
+    },
+
+    "Channels": {
+        "Channel_Log": "859078292002439169",
+        "Role_Log": "859028532381351946",
+        "Other_Log": "859028535560372274",
+        "Right_Click": "859028557350043678"    
+    },
+
+    "Emojis": {
+        "Check": "<a:tik:857908734239834123>",
+        "Delete": "<a:carpi:857908706469478420>"
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "Safe Code ❤ Salvatore",
+        "Timeout": 10000
+    }
+}
